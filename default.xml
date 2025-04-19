@@ -2,5 +2,5 @@
 <manifest>
   <remote name="github" fetch="https://github.com/"/>
   <project name="tiltshiftfocus/kernel_manifest_psyche" path="kernel_platform" revision="main" remote="github"/>
-  <project name="tiltshiftfocus/android_kernel_xiaomi_sm8450" path="kernel_platform/xiaomi/sm8250" revision="fifteen" remote="github"/>
+  <project name="tiltshiftfocus/kernel_xiaomi_sm8250_aosp" path="kernel_platform/xiaomi/sm8250" revision="fifteen" remote="github"/>
 </manifest>
