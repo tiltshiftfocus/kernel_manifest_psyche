@@ -3,4 +3,5 @@
   <remote name="github" fetch="https://github.com/"/>
   <project name="tiltshiftfocus/kernel_manifest_psyche" path="kernel_platform" revision="main" remote="github"/>
   <project name="tiltshiftfocus/kernel_xiaomi_sm8250" path="kernel_platform/xiaomi/sm8250" revision="fifteen-susfs" remote="github"/>
+  <project name="liyafe1997/AnyKernel3" path="AnyKernel3" revision="kona" remote="github"/>
 </manifest>
