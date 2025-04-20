@@ -1,0 +1,8 @@
+PID: 3598213 START: 1745050721636709888 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -m, default.xml [sid=repo-20250419T081838Z-P0036e785/repo-20250419T081841Z-P0036e785]
+
+PID: 3598213 START: 1745050721655472384 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 3598213 END: 1745050721657507840 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 3598213 END: 1745050721657681920 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -m, default.xml [sid=repo-20250419T081838Z-P0036e785/repo-20250419T081841Z-P0036e785]
+
